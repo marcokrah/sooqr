@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
-    <pubDate>Mon, 27 Mar 2023 10:58:26 UTC</pubDate>
+    <pubDate>Mon, 27 Mar 2023 11:58:26 UTC</pubDate>
     <items>
         <item>
             <content_type>content</content_type>
@@ -28,6 +27,33 @@ Je kunt bij MamaLoes gemakkelijk en veilig online een buggy of wandelwagen kopen
             <url>https://www.mamaloes.nl/onderweg/buggys</url>
             <imageurl>https://cdn.mamaloes.nl/catalog/product/600/600/g/o/gogo-grey-001_1.jpg</imageurl>
         </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-99</id>
+            <title>Alle autostoeltjes</title>
+            <description>Autostoeltjes</description>
+            <content>De veiligheid van je kleintje staat altijd voorop, vooral ook onderweg. In het verkeer kan er vanalles gebeuren, dus is het belangrijk dat de autostoeltje van je baby of kind aan de strengste veiligheidseisen voldoet. MamaLoes biedt een ruim assortiment veilige autostoeltjes. De autostoel categorieën zijn ingedeeld op het aantal kg van je kindje.
+
+Een kinderautostoel kopen? Tips van MamaLoes!
+
+Autostoeltjes zijn er in verschillende categorieën. Let er altijd goed op dat je een passende kinderautostoel gebruikt voor je baby of kind, het is belangrijk dat je kind niet te groot of te klein is voor een bepaald type autostoel; dit draagt voor een heel groot deel bij aan de veiligheid! Autostoelfabrikanten hebben een overzichtelijke groepenindeling gemaakt, die rekening houdt met de lengte en het gewicht van je kleintje:
+
+Groep 0: leeftijd 0-1 jaar gewicht 0 - 13 kg
+Groep 1: leeftijd 9 mnd - 4 jaar gewicht 9 - 18 kg
+Groep 1-2-3: leeftijd 9 mnd - 12 jaar gewicht 9 - 36 kg
+Groep 2-3: leeftijd 3 jaar - 12 jaar gewicht 15 - 36 kg
+
+Waar kun je nog meer rekening mee houden als je een autostoeltje gaat aanschaffen of installeren?
+
+Het autostoeltje moet stevig op de bank of stoel staan en tegen de rugleuning staan. Het autostoeltje mag niet kunnen kantelen of wegglijden.
+Heeft je auto IsoFix aansluitpunten? Dan kun je kiezen voor een IsoFix Autostoeltje, voor nog meer veiligheid en gebruikersgemak!
+Naast de strenge Europese veiligheidsnorm ECE R44/04 norm, kun je nu bij Groep 0/1 ook kiezen voor autostoelen die voldoen aan de nieuwe iSize norm.
+
+Natuurlijk moeten ook de prijs en het design van de autostoel passen bij jouw persoonlijke wensen, vandaar dat je bij MamaLoes kunt kiezen uit allerlei uiteenlopende merken. Zo zit er altijd wel een autostoeltje bij die aan jouw eisen voldoet!
+
+Je kunt bij MamaLoes gemakkelijk online autostoelen voor je baby of kind bestellen. Wil je meer informatie of advies op maat? Dan helpen wij je graag persoonlijk verder! Neem vrijblijvend contact met ons op, of kom gezellig langs in een van onze winkels! Hier kun je meteen een heleboel baby autostoeltjes en kinder autostoeltjes 'in het echt' bekijken, voelen en proberen.</content>
+            <url>https://www.mamaloes.nl/onderweg/autostoeltjes</url>
+            <imageurl>https://www.mamaloes.nl/onderweg/autostoeltjes</imageurl>
+        </item>
     </items>
 </channel>
-</rss>
