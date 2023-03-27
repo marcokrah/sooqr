@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
     <pubDate>Mon, 27 Mar 2023 11:58:26 UTC</pubDate>
@@ -55,3 +56,4 @@ Je kunt bij MamaLoes gemakkelijk online autostoelen voor je baby of kind bestell
             <imageurl>https://www.mamaloes.nl/onderweg/autostoeltjes</imageurl>
         </item>
 </channel>
+</rss>
