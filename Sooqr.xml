@@ -62,6 +62,21 @@ Je kunt bij MamaLoes gemakkelijk online autostoelen voor je baby of kind bestell
             <retailprice>39.99</retailprice>
             <stockstatus>Op voorraad</stockstatus>
         </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-167</id>
+            <title>Buitenspeelgoed vanaf</title>
+            <description>Buitenspeelgoed</description>
+            <content>Je kleine kan lekker buiten gaan spelen met het leuke buitenspeelgoed van MamaLoes. Zo vind je onder andere een ballenbak, schommel, zandbak en skippydieren in ons assortiment. Veel speelplezier!
+
+Buitenspeelgoed Online Bestellen
+Bij MamaLoes vind je een hoop speelgoed dat zeer geschikt is voor buiten. Heb je vragen over het buitenspeelgoed van MamaLoes? Of heb je vragen over een van de andere producten uit ons assortiment? Neem dan gerust contact met ons op, of kom gezellig langs in een van onze winkels. Team MamaLoes staat met liefde en plezier voor je klaar!</content>
+            <url>https://www.mamaloes.nl/speelgoed/buiten</url>
+            <imageurl>https://cdn.mamaloes.nl/catalog/product/600/600/s/c/scoot_and_ride_highwaykick_1_step_loopfiets_3_v2_4.jpg</imageurl>
+            <fromprice>2.99</fromprice>
+            <retailprice>2.99</retailprice>
+            <stockstatus>Op voorraad</stockstatus>
+        </item>
     </items>
 </channel>
 </rss>
