@@ -2,12 +2,12 @@
 <rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
-    <pubDate>Mon, 27 Mar 2023 11:58:26 UTC</pubDate>
+    <pubDate>Tue, 25 Apr 2023 11:58:26 UTC</pubDate>
     <items>
         <item>
             <content_type>content</content_type>
             <id>cms-100</id>
-            <title>Alle buggy's vanaf</title>
+            <title>Buggy's</title>
             <description>Buggy's en Wandelwagens</description>
             <content>Buggy's en wandelwagens zijn er in allerlei soorten, kleuren en maten. Een wandelwagen is ideaal voor langere wandelingen en is vaak ook lang te gebruiken. Een buggy daarentegen is pas op latere leeftijd te gebruiken en is vaak licht en compacter om mee te nemen.
 
@@ -26,15 +26,11 @@ Kijk goed wat er allemaal bij inclusief staat, bijvoorbeeld een zonnekap of een 
 
 Je kunt bij MamaLoes gemakkelijk en veilig online een buggy of wandelwagen kopen. Je kan natuurlijk ook langs komen in een van onze winkels. voor persoonlijk advies of om een wagen te testen. Wij helpen je graag!</content>
             <url>https://www.mamaloes.nl/onderweg/buggys</url>
-            <imageurl>https://cdn.mamaloes.nl/catalog/product/600/600/m/a/mamaloes_ding_gogo_buggy_01k.jpg</imageurl>
-            <fromprice>75.00</fromprice>
-            <retailprice>75.00</retailprice>
-            <stockstatus>Op voorraad</stockstatus>
         </item>
         <item>
             <content_type>content</content_type>
             <id>cms-99</id>
-            <title>Alle autostoeltjes vanaf</title>
+            <title>Autostoeltjes</title>
             <description>Autostoeltjes</description>
             <content>De veiligheid van je kleintje staat altijd voorop, vooral ook onderweg. In het verkeer kan er vanalles gebeuren, dus is het belangrijk dat de autostoeltje van je baby of kind aan de strengste veiligheidseisen voldoet. MamaLoes biedt een ruim assortiment veilige autostoeltjes. De autostoel categorieën zijn ingedeeld op het aantal kg van je kindje.
 
@@ -57,25 +53,6 @@ Natuurlijk moeten ook de prijs en het design van de autostoel passen bij jouw pe
 
 Je kunt bij MamaLoes gemakkelijk online autostoelen voor je baby of kind bestellen. Wil je meer informatie of advies op maat? Dan helpen wij je graag persoonlijk verder! Neem vrijblijvend contact met ons op, of kom gezellig langs in een van onze winkels! Hier kun je meteen een heleboel baby autostoeltjes en kinder autostoeltjes 'in het echt' bekijken, voelen en proberen.</content>
             <url>https://www.mamaloes.nl/onderweg/autostoeltjes</url>
-            <imageurl>https://cdn.mamaloes.nl/catalog/product/600/600/d/i/ding_mace_360_i-size_autostoel_0-36kg_di-111916_1_2.jpg</imageurl>
-            <fromprice>39.99</fromprice>
-            <retailprice>39.99</retailprice>
-            <stockstatus>Op voorraad</stockstatus>
-        </item>
-        <item>
-            <content_type>content</content_type>
-            <id>cms-167</id>
-            <title>Buitenspeelgoed vanaf</title>
-            <description>Buitenspeelgoed</description>
-            <content>Je kleine kan lekker buiten gaan spelen met het leuke buitenspeelgoed van MamaLoes. Zo vind je onder andere een ballenbak, schommel, zandbak en skippydieren in ons assortiment. Veel speelplezier!
-
-Buitenspeelgoed Online Bestellen
-Bij MamaLoes vind je een hoop speelgoed dat zeer geschikt is voor buiten. Heb je vragen over het buitenspeelgoed van MamaLoes? Of heb je vragen over een van de andere producten uit ons assortiment? Neem dan gerust contact met ons op, of kom gezellig langs in een van onze winkels. Team MamaLoes staat met liefde en plezier voor je klaar!</content>
-            <url>https://www.mamaloes.nl/speelgoed/buiten</url>
-            <imageurl>https://cdn.mamaloes.nl/catalog/product/600/600/s/c/scoot_and_ride_highwaykick_1_step_loopfiets_3_v2_4.jpg</imageurl>
-            <fromprice>2.99</fromprice>
-            <retailprice>2.99</retailprice>
-            <stockstatus>Op voorraad</stockstatus>
         </item>
     </items>
 </channel>
