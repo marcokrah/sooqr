@@ -2,7 +2,7 @@
 <rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
-    <pubDate>Sun, 30 Apr 2023 11:59:36 UTC</pubDate>
+    <pubDate>Sun, 26 Jun 2023 11:59:36 UTC</pubDate>
     <items>
         <item>
             <content_type>content</content_type>
@@ -3223,6 +3223,14 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <description>Retour</description>
             <content>Retourneren</content>
             <url>https://www.mamaloes.nl/retourneren</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-9007</id>
+            <title>Magazijn Leegverkoop</title>
+            <description>Magazijnleegverkoop</description>
+            <content>Magazijn</content>
+            <url>https://www.mamaloes.nl/magazijn-leegverkoop</url>
         </item>
     </items>
 </channel>
