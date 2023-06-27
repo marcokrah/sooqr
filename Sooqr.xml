@@ -3232,6 +3232,22 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <content>Magazijn</content>
             <url>https://www.mamaloes.nl/magazijn-leegverkoop</url>
         </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-1978</id>
+            <title>Bibs Spenen</title>
+            <description>Bibs</description>
+            <content>Bibs Fopspenen</content>
+            <url>https://www.mamaloes.nl/merken/bibs/spenen</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-1754</id>
+            <title>Jollein</title>
+            <description>Jollein</description>
+            <content>Jollein</content>
+            <url>https://www.mamaloes.nl/merken/jollein</url>
+        </item>
     </items>
 </channel>
 </rss>
