@@ -3248,6 +3248,22 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <content>Jollein</content>
             <url>https://www.mamaloes.nl/merken/jollein</url>
         </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-1856</id>
+            <title>Zazu</title>
+            <description>Zazu</description>
+            <content>Zazu</content>
+            <url>https://www.mamaloes.nl/merken/zazu</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-1742</id>
+            <title>Happy Horse</title>
+            <description>Happy Horse</description>
+            <content>Happy Horse</content>
+            <url>https://www.mamaloes.nl/merken/happy-horse</url>
+        </item>
     </items>
 </channel>
 </rss>
