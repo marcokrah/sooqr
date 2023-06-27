@@ -3264,6 +3264,14 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <content>Happy Horse</content>
             <url>https://www.mamaloes.nl/merken/happy-horse</url>
         </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2410</id>
+            <title>Glazen Flessen</title>
+            <description>Glazen Babyfles</description>
+            <content>Fles Glas</content>
+            <url>https://www.mamaloes.nl/merken/happy-horse</url>
+        </item>
     </items>
 </channel>
 </rss>
