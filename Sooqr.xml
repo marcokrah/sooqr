@@ -2,7 +2,7 @@
 <rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
-    <pubDate>Sun, 27 Jun 2023 11:59:46 UTC</pubDate>
+    <pubDate>Sun, 28 Jun 2023 11:59:46 UTC</pubDate>
     <items>
         <item>
             <content_type>content</content_type>
@@ -3271,6 +3271,14 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <description>Fles Glas</description>
             <content>Glazen Babyfles</content>
             <url>https://www.mamaloes.nl/verzorging/eten-drinken/flessen/glazen-flessen</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-1731</id>
+            <title>Dr. Brown's</title>
+            <description>Dr Brown</description>
+            <content>Dr Browns</content>
+            <url>https://www.mamaloes.nl/merken/dr-browns</url>
         </item>
     </items>
 </channel>
