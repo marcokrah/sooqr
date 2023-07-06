@@ -2,7 +2,7 @@
 <rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
-    <pubDate>Sun, 28 Jun 2023 11:59:46 UTC</pubDate>
+    <pubDate>Thu, 29 Jun 2023 11:59:46 UTC</pubDate>
     <items>
         <item>
             <content_type>content</content_type>
@@ -3279,6 +3279,14 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <description>Dr Brown</description>
             <content>Dr Browns</content>
             <url>https://www.mamaloes.nl/merken/dr-browns</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-170</id>
+            <title>Waterpret</title>
+            <description>Waterspeelgoed</description>
+            <content>Waterpret</content>
+            <url>https://www.mamaloes.nl/speelgoed/waterpret</url>
         </item>
     </items>
 </channel>
