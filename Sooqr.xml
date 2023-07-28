@@ -2,7 +2,7 @@
 <rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
-    <pubDate>Thu, 29 Jun 2023 11:59:46 UTC</pubDate>
+    <pubDate>Thu, 28 Jul 2023 11:59:46 UTC</pubDate>
     <items>
         <item>
             <content_type>content</content_type>
@@ -3287,6 +3287,62 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <description>Waterspeelgoed</description>
             <content>Waterpret</content>
             <url>https://www.mamaloes.nl/speelgoed/waterpret</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2433</id>
+            <title>Deurstoppers</title>
+            <description>Deurstop</description>
+            <content>Deurstopper</content>
+            <url>https://www.mamaloes.nl/thuis/veiligheid/deurstoppers</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2432</id>
+            <title>Hoekbeschermers</title>
+            <description>Hoekbeschermers</description>
+            <content>Hoekbeschermer</content>
+            <url>https://www.mamaloes.nl/thuis/veiligheid/hoekbeschermers</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2434</id>
+            <title>Kastdeurklemmen</title>
+            <description>Kastslot</description>
+            <content>Kastdeurklem</content>
+            <url>https://www.mamaloes.nl/thuis/veiligheid/kastdeurklemmen</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2437</id>
+            <title>Kindertrapleuningen</title>
+            <description>Trapleuning</description>
+            <content>Stair Trainer</content>
+            <url>https://www.mamaloes.nl/thuis/veiligheid/kindertrapleuningen</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2436</id>
+            <title>Kniebeschermers</title>
+            <description>Kniebeschermers</description>
+            <content>Kniebeschermer</content>
+            <url>https://www.mamaloes.nl/thuis/veiligheid/kniebeschermers</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-1435</id>
+            <title>Multilocks</title>
+            <description>Multilock</description>
+            <content>Multilocks</content>
+            <url>https://www.mamaloes.nl/thuis/veiligheid/multilocks</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2435</id>
+            <title>Stopcontactbeschermers</title>
+            <description>Stopcontactbeveiliging</description>
+            <content>Stopcontact</content>
+            <url>https://www.mamaloes.nl/thuis/veiligheid/stopcontactbeschermers</url>
         </item>
     </items>
 </channel>
