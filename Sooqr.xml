@@ -2,7 +2,7 @@
 <rss xmlns:sqr='http://base.sooqr.com/ns/1.0' version='2.0' encoding='utf-8'>
 <channel>
     <title>Content feed</title>
-    <pubDate>Thu, 28 Jul 2023 11:59:46 UTC</pubDate>
+    <pubDate>Thu, 28 Jul 2023 11:59:50 UTC</pubDate>
     <items>
         <item>
             <content_type>content</content_type>
@@ -3343,6 +3343,14 @@ Het is heerlijk om de leukste trucjes uit te halen op een van onze trampolines. 
             <description>Stopcontactbeveiliging</description>
             <content>Stopcontact</content>
             <url>https://www.mamaloes.nl/thuis/veiligheid/stopcontactbeschermers</url>
+        </item>
+        <item>
+            <content_type>content</content_type>
+            <id>cms-2427</id>
+            <title>Gender Reveal</title>
+            <description>Gender Reveal</description>
+            <content>Gender Reveal</content>
+            <url>https://www.mamaloes.nl/kados/gender-reveal</url>
         </item>
     </items>
 </channel>
